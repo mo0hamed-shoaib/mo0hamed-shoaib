@@ -5,6 +5,8 @@
 
 ## 💫 About Me
 <p>
+  I'm a Passionate Full-Stack Web Developer specializing in the MERN stack, with a Bachelor's degree in Computer Science from Misr University for Science and Technology. Eager to build innovative, efficient applications and websites while continuously learning and growing. Excited to contribute my skills to a dynamic team and create meaningful solutions.
+  
   🌱 I’m currently diving deep into the <strong>MERN stack</strong><br/>
   📫 Reach me at: <a href="mailto:mohamed.gamal.shoaib@gmail.com">mohamed.gamal.shoaib@gmail.com</a>
 </p>
