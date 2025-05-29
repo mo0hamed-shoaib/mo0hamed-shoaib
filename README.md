@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mohamed+Gamal;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+About+Innovation&center=true&size=30&color=58a6ff">
+</h1>
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack Trainee at ITI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Egypt-🇪🇬-green" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/Lives-Cairo,%20Egypt-success" />
+</p>
 
 ---
 
@@ -78,9 +86,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo0hamed-shoaib&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo0hamed-shoaib&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mo0hamed-shoaib/mo0hamed-shoaib/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
