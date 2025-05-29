@@ -168,7 +168,7 @@ const mohamed = {
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mo0hamed-shoaib/mo0hamed-shoaib/output/github-contribution-grid-snake-radical-alt.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mo0hamed-shoaib/mo0hamed-shoaib/output/github-contribution-grid-snake-radical.svg" alt="Snake animation" />
 </p>
 
 ---
