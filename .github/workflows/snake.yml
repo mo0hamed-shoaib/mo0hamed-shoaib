@@ -35,7 +35,7 @@ jobs:
           github_user_name: mo0hamed-shoaib
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#bfd6f6,#8cc8ff,#64b5f6,#42a5f5,#2196f3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
