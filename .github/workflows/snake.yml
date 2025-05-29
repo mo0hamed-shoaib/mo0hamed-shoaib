@@ -1,45 +1,33 @@
 name: Generate Snake
 
-# Controls when the action will run
 on:
-  # Triggers the workflow on schedule (daily at midnight UTC)
   schedule:
     - cron: "0 0 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
       contents: write
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+      pages: write
+      id-token: write
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE
       - name: Checkout
         uses: actions/checkout@v4
       
-      # Generates the snake
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mo0hamed-shoaib
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#bfd6f6,#8cc8ff,#64b5f6,#42a5f5,#2196f3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-blue.svg?color_snake=#58a6ff&color_dots=#0d1117,#161b22,#21262d,#30363d,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # Push the content to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
