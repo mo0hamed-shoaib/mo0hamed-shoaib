@@ -37,7 +37,7 @@ const developer = {
     ],
     currentMastery: [
         "MongoDB    ██████████████░░░░░░░   70%   Express.js  ████████████████░░░░░   75%",
-        "React      ████████████░░░░░░░░░   65%   Node.js     ██████████████░░░░░░░   70%"
+        "React     ████████████░░░░░░░░░   65%   Node.js     ██████████████░░░░░░░   70%"
     ]
 };
 ```
@@ -105,13 +105,6 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0hamed-shoaib&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=mo0hamed-shoaib&theme=radical&hide_border=true" height="170"/>
 </div>
-
----
-
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo0hamed-shoaib&bg_color=0d1117&color=fe428e&line=a855f7&point=ffffff&area=true&hide_border=true&area_color=fe428e&custom_title=Mohamed's%20Contribution%20Graph&height=300&days=30" />
-</p>
 
 ---
 
