@@ -1,17 +1,21 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Egypt-🇪🇬-green" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
-  <img src="https://img.shields.io/badge/Lives-Cairo,%20Egypt-success" />
-  <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Profile%20views&color=a855f7&style=flat" alt="Profile Views" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack Trainee at ITI</h3>
+<h3 align="center">🌟 Always exploring new technologies and pushing the boundaries of web development!</h3>
 
 <div align="center">
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Specialized_in-MERN_Stack-61dafb?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passionate_about-Full_Stack-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-4ecdc4?style=for-the-badge&logo=code&logoColor=white" />
+</p>
 
-### 🌟 Always exploring new technologies and pushing the boundaries of web development!
+<p align="center">
+  <img src="https://img.shields.io/badge/Egypt-🇪🇬-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-Cairo,%20Egypt-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -22,31 +26,23 @@
 <div align="center">
 
 ```javascript
-const mohamed = {
-    title: "Full Stack Developer",
-    location: "Cairo, Egypt 🇪🇬",
-    education: "Computer Science @ MUST",
-    currentFocus: "MERN Stack Mastery",
+const developer = {
+    code: () => "☕ Coffee → 💻 Code → 🚀 Deploy",
     
-    dailyRoutine: () => {
-        return "☕ Coffee → 💻 Code → 🚀 Deploy → 🔄 Repeat";
-    },
-    
-    passions: ["Clean Code", "Problem Solving", "Innovation"],
-    motto: "Turning ideas into digital reality, one commit at a time! ✨"
+    currentGoals: [
+        "🌱 Currently mastering the MERN Stack at ITI",
+        "💡 Building full-stack applications that make a difference",
+        "🎯 Always exploring cutting-edge web technologies",
+        "🤝 Looking to collaborate on innovative projects"
+    ],
+    currentMastery: [
+        "MongoDB     ██████████████░░░░░░░   70%   Express.js  ████████████████░░░░░   75%",
+        "React      ████████████░░░░░░░░░   65%   Node.js     ██████████████░░░░░░░   70%"
+    ]
 };
 ```
 
 </div>
-
-**🚀 What I'm up to:**
-- 🌱 Currently mastering the **MERN Stack** at ITI
-- 💡 Building full-stack applications that make a difference  
-- 🎯 Always exploring cutting-edge web technologies
-- 🤝 Looking to collaborate on innovative projects
-
-**💬 Let's connect:** Ask me about **React, Node.js, JavaScript, and Full-Stack Development**  
-**📧 Reach out:** [mohamed.gamal.shoaib@gmail.com](mailto:mohamed.gamal.shoaib@gmail.com)
 
 ---
 
@@ -70,84 +66,37 @@ const mohamed = {
 
 <div align="center">
 
-## 🚀 Skills & Technologies
-
-</div>
-
-<div align="center">
-
-## 🧠 Core Languages
-
-</div>
-<br>
+**🌐 Languages & Frontend**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass&theme=dark&perline=5&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,react,nextjs,angular,tailwind,bootstrap&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub><strong>JavaScript • TypeScript • HTML5 • CSS3 • SASS</strong></sub>
+  <sub>JavaScript • TypeScript • HTML5 • CSS3 • SASS • React • Next.js • Angular • Tailwind CSS • Bootstrap</sub>
 </p>
 
-<div align="center">
-
-## ⚛️ Frontend Development
-
-</div>
-<br>
+**⚙️ Backend & Tools**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,tailwind,bootstrap&theme=dark&perline=5&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql,graphql,git,github,vscode,postman,npm&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub><strong>React • Next.js • Angular • Tailwind CSS • Bootstrap</strong></sub>
+  <sub>Node.js • Express.js • MongoDB • PostgreSQL • GraphQL • Git • GitHub • VS Code • Postman • NPM</sub>
 </p>
 
-<div align="center">
-
-## 🗄️ Backend & Database
-
-</div>
-<br>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql,graphql&theme=dark&perline=5&titles=true" />
-  </a>
-</p>
-<p align="center">
-  <sub><strong>Node.js • Express.js • MongoDB • PostgreSQL • GraphQL</strong></sub>
-</p>
-
-<div align="center">
-
-## 🛠️ Development Tools
-
-</div>
-<br>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5&titles=true" />
-  </a>
-</p>
-<p align="center">
-  <sub><strong>Git • GitHub • VS Code • Postman • NPM</strong></sub>
-</p>
-
-<div align="center">
-
-## 🎨 Design & Testing
-
-</div>
-<br>
+**🎨 Design & Testing**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,xd,jest&theme=dark&perline=4&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub><strong>Figma • Photoshop • Adobe XD • Jest</strong></sub>
+  <sub>Figma • Photoshop • Adobe XD • Jest</sub>
 </p>
+
+</div>
 
 ---
 
@@ -175,6 +124,8 @@ const mohamed = {
 
 <div align="center">
   <h3>💖 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
+  
+  **Keywords:** `#FullStack` `#MERN` `#React` `#NodeJS` `#JavaScript` `#WebDevelopment` `#OpenSource`
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling" />
 </div>
