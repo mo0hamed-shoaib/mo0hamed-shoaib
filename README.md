@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack Trainee at ITI</h3>
+<h3 align="center">💻 Frontend Developer | MERN Stack graduate from ITI</h3>
 <h3 align="center">🌟 Always exploring new technologies and pushing the boundaries of web development!</h3>
 
 <div align="center">
@@ -30,14 +30,14 @@ const developer = {
     code: () => "☕ Coffee → 💻 Code → 🚀 Deploy",
     
     currentGoals: [
-        "🌱 Currently mastering the MERN Stack at ITI",
+        "🌱 Currently mastering ReacJS and Next.js",
         "💡 Building full-stack applications that make a difference",
         "🎯 Always exploring cutting-edge web technologies",
         "🤝 Looking to collaborate on innovative projects"
     ],
     currentMastery: [
-        "MongoDB    ██████████████░░░░░░░   70%   Express.js  ████████████████░░░░░   75%",
-        "React     ████████████░░░░░░░░░   65%   Node.js     ██████████████░░░░░░░   70%"
+        "Next.js    ██████████░░░░░░░░░   50%   TypeScript  ████████░░░░░░░░░░░   30%",
+        "React      ███████████░░░░░░░░   60%   Backend     █████████░░░░░░░░░░   35%"
     ]
 };
 ```
