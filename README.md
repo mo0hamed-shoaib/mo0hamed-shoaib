@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Goal-Start%20A%20Career%20As%20Frontend%20Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives_In-Cairo,%20Egypt-success?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile Views" />
-  <a href="[https://marky-editor.vercel.app/](https://mohamedgamal-loom.vercel.app/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio">
   </a>
 </p>
