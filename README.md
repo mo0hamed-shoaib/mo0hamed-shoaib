@@ -5,17 +5,11 @@
 <div align="center">
 <br />
 <p align="center">
-  <img src="https://img.shields.io/badge/Specialized_in-Frontend_Development-61dafb?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passionate_about-React.js_and_Next.js-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Clean_Code-4ecdc4?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Goal-Start%20A%20Career%20As%20Frontend%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives_In-Cairo,%20Egypt-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passion-React.js_&_Next.js-ff6b6b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives_In-Cairo-success?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile Views" />
   <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Personal Portfolio">
   </a>
 </p>
 
