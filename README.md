@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
 <h3 align="center">💻 Frontend Developer | MERN Stack graduate from ITI</h3>
-<h3 align="center">🌟 Always exploring new technologies and pushing the boundaries of web development!</h3>
 
 <div align="center">
 <br />
 <p align="center">
   <img src="https://img.shields.io/badge/Passion-React.js_&_Next.js-ff6b6b?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives_In-Cairo-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Lives_In-Cairo, EG-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
   <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Personal Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logoColor=white" alt="Personal Portfolio">
   </a>
 </p>
 
@@ -26,10 +25,9 @@ const developer = {
     code: () => "☕ Coffee → 💻 Code → 🚀 Deploy",
     
     currentGoals: [
-        "🌱 Currently mastering ReacJS and Next.js",
+        "🌱 Currently mastering React.js & Next.js",
         "💡 Building full-stack applications that make a difference",
-        "🎯 Always exploring cutting-edge web technologies",
-        "🤝 Looking to collaborate on innovative projects"
+        "🎯 Always exploring and learning new technologies"
     ],
     currentMastery: [
         "Next.js     ██████████░░░░░░░░░   50%   TypeScript  ████████░░░░░░░░░░░   30%",
@@ -53,7 +51,7 @@ const developer = {
   <a href="https://facebook.com/mohamed.jamal84" target="_blank">Facebook</a> •
   <a href="https://linkedin.com/in/mohamed-g-shoaib" target="_blank">LinkedIn</a> •
   <a href="https://x.com/mo0hamed_gamal" target="_blank">Twitter/X</a> •
-  <a href="mailto:mohamed.gamal.shoaib@gmail.com" target="_blank">Email</a>
+  <a href="mailto:mohamed.gamal.shoaib@gmail.com" target="_blank">Gmail</a>
 </p>
 
 ---
@@ -65,31 +63,31 @@ const developer = {
 **🌐 Languages & Frontend**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,react,nextjs,angular,tailwind,bootstrap&theme=dark&perline=10&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub>JavaScript • TypeScript • HTML5 • CSS3 • SASS • React • Next.js • Angular • Tailwind CSS • Bootstrap</sub>
+  <sub>JavaScript • TypeScript • HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap</sub>
 </p>
 
 **⚙️ Backend & Tools**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql,graphql,git,github,vscode,postman,npm&theme=dark&perline=10&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql,git,github,postman,npm&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub>Node.js • Express.js • MongoDB • PostgreSQL • GraphQL • Git • GitHub • VS Code • Postman • NPM</sub>
+  <sub>Node.js • Express.js • MongoDB • PostgreSQL • Git • GitHub • Postman • NPM</sub>
 </p>
 
-**🎨 Design & Testing**
+**🎨 Design & Edit**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,xd,jest&theme=dark&perline=4&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,pr,xd&theme=dark&perline=4&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub>Figma • Photoshop • Adobe XD • Jest</sub>
+  <sub>Figma • Photoshop • Premiere • Adobe XD</sub>
 </p>
 
 </div>
@@ -99,7 +97,7 @@ const developer = {
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0hamed-shoaib&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mo0hamed-shoaib&theme=radical&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mo0hamed-shoaib&theme=radical&hide_border=true" height="165"/>
 </div>
 
 ---
@@ -112,9 +110,9 @@ const developer = {
 ---
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
+  
   
   **Keywords:** `#FullStack` `#MERN` `#React` `#NodeJS` `#JavaScript` `#WebDevelopment` `#OpenSource`
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks%20for%20Visiting%20my%20Profile,%20Happy%20Coding%20💗&fontSize=22&fontColor=fff&animation=twinkling" />
 </div>
