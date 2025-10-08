@@ -19,18 +19,16 @@
 
 ```javascript
 const developer = {
-    code: () => "☕ Coffee → 💻 Code → 🚀 Deploy",
+    bio: () => "I'm Mohamed Gamal from Egypt! a Frontend Developer from Egypt,
+passionate about building clean, user-focused web applications.",
     
     currentGoals: [
-        "🌱 Currently mastering React.js & Next.js",
-        "💡 Building full-stack applications that make a difference",
-        "🎯 Always exploring and learning new technologies"
-    ],
+        "💡 Mastering React.js & Next.js, and learning TypeScript"],
+
     currentMastery: [
         "Next.js     ██████████░░░░░░░░░   50%   TypeScript  ████████░░░░░░░░░░░   30%",
         "React      ███████████░░░░░░░░   60%   Backend     █████████░░░░░░░░░░   35%"
-    ]
-};
+    ]};
 ```
 
 </div>
@@ -70,11 +68,11 @@ const developer = {
 **⚙️ Backend & Tools**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql,git,github,postman,npm&theme=dark&perline=10&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb,git,github,postman,npm&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub>Node.js • Express.js • MongoDB • PostgreSQL • Git • GitHub • Postman • NPM</sub>
+  <sub>Node.js • MongoDB • Git • GitHub • Postman • NPM</sub>
 </p>
 
 **🎨 Design & Edit**
