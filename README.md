@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack graduate from ITI</h3>
+<h2 align="center">💻 Frontend Developer | React.js & Next.js</h2>
 
-<div align="center">
-<br />
 <p align="center">
-  <img src="https://img.shields.io/badge/Passion-React.js_&_Next.js-ff6b6b?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives_In-Cairo, EG-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
+  <a href="https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CV-View-003366?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV on Google Drive">
+  </a>
   <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logoColor=white" alt="Personal Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Personal Portfolio">
   </a>
 </p>
 
-</div>
 
 ---
 
