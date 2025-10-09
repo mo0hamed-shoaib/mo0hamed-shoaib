@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
 <h2 align="center">💻 Frontend Developer | React.js & Next.js</h2>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CV-View-003366?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV on Google Drive">
-  </a>
-  <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Personal Portfolio">
-  </a>
-</p>
-
+<div align="center">
+    <a href="https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-View-003366?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV on Google Drive"></a> <a href="https://mohamedgamal-loom.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Personal Portfolio"></a>
+</div>
 
 ---
 
@@ -19,8 +13,8 @@
 
 ```javascript
 const developer = {
-    bio: () => "I'm Mohamed Gamal from Egypt! a Frontend Developer from Egypt,
-passionate about building clean, user-focused web applications.",
+    bio: () => `I'm Mohamed Gamal! a Frontend Developer from Egypt,
+    passionate about building clean, user-focused web applications.`,
     
     currentGoals: [
         "💡 Mastering React.js & Next.js, and learning TypeScript"],
@@ -36,17 +30,17 @@ passionate about building clean, user-focused web applications.",
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook,linkedin,twitter,gmail&theme=dark&titles=true" />
-  </a>
+  <img src="https://img.shields.io/badge/Response_Time-10_Minutes-009a54?style=for-the-badge&logo=gmail&logoColor=white" alt="Response Time" />
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/mohamed.jamal84" target="_blank">Facebook</a> •
-  <a href="https://linkedin.com/in/mohamed-g-shoaib" target="_blank">LinkedIn</a> •
-  <a href="https://x.com/mo0hamed_gamal" target="_blank">Twitter/X</a> •
-  <a href="mailto:mohamed.gamal.shoaib@gmail.com" target="_blank">Gmail</a>
+  <strong>Facebook:</strong> <a href="https://facebook.com/mohamed.jamal84" target="_blank">Mohamed.Jamal84</a> • 
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/mohamed-g-shoaib" target="_blank">mohamed-g-shoaib</a>
+  <br>
+  <strong>Twitter/X:</strong> <a href="https://x.com/mo0hamed_gamal" target="_blank">@mo0hamed_gamal</a> • 
+  <strong>Gmail:</strong> <a href="mailto:mohamed.g.shoaib@gmail.com">mohamed.g.shoaib@gmail.com</a>
 </p>
 
 ---
