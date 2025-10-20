@@ -30,11 +30,11 @@
 **🌐 Languages & Frontend**
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap&theme=dark&perline=10&titles=true" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs,tailwind&theme=dark&perline=10&titles=true" />
   </a>
 </p>
 <p align="center">
-  <sub>JavaScript • TypeScript • HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap</sub>
+  <sub>JavaScript • TypeScript • HTML5 • CSS3 • React • Next.js • Tailwind CSS</sub>
 </p>
 
 **⚙️ Backend & Tools**
