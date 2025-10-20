@@ -7,28 +7,6 @@
 
 ---
 
-## 💫 About Me
-
-<div align="center">
-
-```javascript
-const developer = {
-    bio: () => `I'm Mohamed Gamal! a Frontend Developer from Egypt,
-    passionate about building clean, user-focused web applications.`,
-    
-    currentGoals: [
-        "💡 Mastering React.js & Next.js, and learning TypeScript"],
-
-    currentMastery: [
-        "Next.js     ██████████░░░░░░░░░   50%   TypeScript  ████████░░░░░░░░░░░   30%",
-        "React      ███████████░░░░░░░░   60%   Backend     █████████░░░░░░░░░░   35%"
-    ]};
-```
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
