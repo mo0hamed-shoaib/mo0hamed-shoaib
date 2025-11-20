@@ -6,7 +6,7 @@ Passionate frontend developer building modern web experiences with React and Nex
 
 [![Portfolio](https://img.shields.io/badge/-View_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedgamal-loom.vercel.app/)
 [![CV](https://img.shields.io/badge/-View_CV-003366?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing)
-![Views](https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=👁%20Views&color=grey&style=flat-square&label_color=000000)
+![Views](https://komarev.com/ghpvc/?username=mo0hamed-shoaib&label=Views&color=333333&style=flat-square&label_color=000000)
 
 ---
 
