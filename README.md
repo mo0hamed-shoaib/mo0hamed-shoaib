@@ -28,4 +28,5 @@ Passionate frontend developer building modern web experiences with React and Nex
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mo0hamed-shoaib&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo0hamed-shoaib&theme=dark" alt="GitHub Stats" />
+
