@@ -2,7 +2,7 @@
 
 **`Frontend Developer | React.js & Next.js`**
 
-Passionate frontend developer building modern web experiences with React and Next.js.
+Building web experiences that are fast, accessible, and delightful.
 
 [![Portfolio](https://img.shields.io/badge/-View_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedgamal-loom.vercel.app/)
 [![CV](https://img.shields.io/badge/-View_CV-003366?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing)
